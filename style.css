@@ -1,0 +1,23 @@
+ html, body
+{
+  height: 100%;
+  margin: 0;
+}
+body{
+  background: whitesmoke;
+}
+
+
+.login_div
+{
+	background: cornsilk;float: none;border-radius: 15px;
+}
+ #login_button
+{
+	width: 80%;border-radius: 15px;
+}
+#main_text{
+  padding-top: 100;
+  padding-bottom: 200;
+}
+ 
